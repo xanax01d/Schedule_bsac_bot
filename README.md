@@ -1,3 +1,4 @@
+
 ENG:
 
 Schedule bot & updater for Belarusian State Academy of Communications on SQLite3,Telebot,GSpread
@@ -12,6 +13,7 @@ pip3 install -r requerements.txt
 
 Coded by: t.me/xanax01d
 Schedule tables for Google Spreadsheets maded by Student Council of Belarusian State Academy of Communications
+
 
 RU:
 
