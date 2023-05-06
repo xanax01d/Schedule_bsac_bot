@@ -2,6 +2,7 @@
 ENG:
 
 Schedule bot & updater for Belarusian State Academy of Communications on SQLite3,Telebot,GSpread
+
 Programming language: Python
 Dependencies: gspread, telebot 
 
@@ -18,6 +19,7 @@ Schedule tables for Google Spreadsheets maded by Student Council of Belarusian S
 RU:
 
 Бот - расписание и средство обновления расписания для Белорусской государственной академии связи
+
 Язык программирования: Python
 Зависимости: gspread, telebot
 
