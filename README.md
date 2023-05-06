@@ -4,6 +4,7 @@ ENG:
 Schedule bot & updater for Belarusian State Academy of Communications on SQLite3,Telebot,GSpread
 
 Programming language: Python
+
 Dependencies: gspread, telebot 
 
 How to install dependencies: 
@@ -21,6 +22,7 @@ RU:
 Бот - расписание и средство обновления расписания для Белорусской государственной академии связи
 
 Язык программирования: Python
+
 Зависимости: gspread, telebot
 
 Как установить зависимости:
