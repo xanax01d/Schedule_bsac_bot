@@ -32,4 +32,5 @@ pip3 install gspread, telebot
 pip3 install -r requerements.txt 
 
 Программировал: t.me/xanax01d
+
 Таблицы расписания для Гугл Таблиц сделаны Советом обучающихся Белорусской государственной академии связи
